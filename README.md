@@ -450,7 +450,7 @@ git push origin feature/nama-fitur
 Project ini dibuat oleh **Mhd Dimas Naufal**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-dimasnaufal18-181717?logo=github&logoColor=white)](https://github.com/dimasnaufal18)
-[![Email](https://img.shields.io/badge/Email-emailkamu%40example.com-D14836?logo=gmail&logoColor=white)](mailto:emailkamu@example.com)
+[![Email](https://img.shields.io/badge/Email-emailkamu%40example.com-D14836?logo=gmail&logoColor=white)](sparx1233@gmail.com)
 
 - **Nama:** Mhd Dimas Naufal
 - **GitHub:** [@dimasnaufal18](https://github.com/dimasnaufal18)
