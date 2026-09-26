@@ -445,6 +445,12 @@ git push origin feature/nama-fitur
 
 ---
 
+## 🌐 Live Demo
+
+Coba versi web-nya di sini: [image-compressor-web.vercel.app](https://image-compressor-web.vercel.app)
+
+---
+
 ## 👤 Author
 
 Project ini dibuat oleh **Mhd Dimas Naufal**.
