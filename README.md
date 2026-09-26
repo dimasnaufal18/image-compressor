@@ -447,7 +447,7 @@ git push origin feature/nama-fitur
 
 ## 🌐 Live Demo
 
-Coba versi web-nya di sini: [image-compressor-web.vercel.app](https://image-compressor-web.vercel.app)
+Coba versi web-nya di sini: [https://image-compressor-web-ochre.vercel.app](https://image-compressor-web-ochre.vercel.app/)
 
 ---
 
