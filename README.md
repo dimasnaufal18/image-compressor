@@ -454,7 +454,7 @@ Project ini dibuat oleh **Mhd Dimas Naufal**.
 
 - **Nama:** Mhd Dimas Naufal
 - **GitHub:** [@dimasnaufal18](https://github.com/dimasnaufal18)
-- **Email:** [emailkamu@example.com](sparx1233@gmail.com)
+- **Email:** [sparx1233@gmail.com](sparx1233@gmail.com)
 - **Tahun:** 2026
 
 ---
